@@ -69,4 +69,6 @@ public class Items {
                 ", detail='" + detail + '\'' +
                 '}';
     }
+	//这是我写的
+	
 }
