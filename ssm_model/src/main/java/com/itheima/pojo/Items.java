@@ -69,6 +69,6 @@ public class Items {
                 ", detail='" + detail + '\'' +
                 '}';
     }
-	//ÕâÊÇÎÒĞ´µÄ
+	//è¿™æ˜¯æˆ‘å†™çš„
 	
 }
